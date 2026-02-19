@@ -1,0 +1,10 @@
+{
+    "kit": [
+        {
+            "product_id": "P2",
+            "name": "Keyboard",
+            "price": 20,
+            "qty": 15
+        }
+    ]
+}
